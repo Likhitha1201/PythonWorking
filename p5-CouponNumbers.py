@@ -8,7 +8,7 @@
 
 """
 
-# Reverse number : 112 -->211
+# Coupon : matched-won or loss
 
 """
 
