@@ -13,7 +13,6 @@
         This function is used to calculate the fibonacci series.
     Parameters:
         num: It is used to take the user input as type integer
-    Return:
         It print's the group of fibonacci series with in given num.
 """
 num = int(input("Enter any number: "))
